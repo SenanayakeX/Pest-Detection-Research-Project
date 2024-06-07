@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "1077762784882",
+    "firebase_url": "https://monkeydetection-de11e-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "monkeydetection-de11e",
+    "storage_bucket": "monkeydetection-de11e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1077762784882:android:b6c683854bdd6e63208ceb",
+        "android_client_info": {
+          "package_name": "com.example.flutter_application_1"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAu0M6TE9Ux5eiMDP_7PuiCg-wbCEigZvQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1077762784882:android:ad9b96b850fbbff7208ceb",
+        "android_client_info": {
+          "package_name": "com.example.flutter_application_2"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAu0M6TE9Ux5eiMDP_7PuiCg-wbCEigZvQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1077762784882:android:fffda347f17aaba1208ceb",
+        "android_client_info": {
+          "package_name": "com.mycompany.monkeydetection"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAu0M6TE9Ux5eiMDP_7PuiCg-wbCEigZvQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
